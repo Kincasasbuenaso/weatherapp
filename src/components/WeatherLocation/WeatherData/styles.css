@@ -1,0 +1,20 @@
+.weatherDataCont {
+    background-color: #ccc;
+    padding: 20px;
+    border-radius: 10px;
+}
+.weatherExtraInfoCont{
+    margin-top:20px;
+}
+.weatherTemperatureCont{
+
+}
+
+.weatherTemperatureCont span{
+    font-size: 40px;
+    line-height: 20px;
+    letter-spacing: inherit;
+}
+.weatherTemperatureCont i{
+    margin-right: 5px;
+}
